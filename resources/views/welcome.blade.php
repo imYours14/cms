@@ -38,6 +38,8 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <h1 style="color : white;">Farrel Valentino B</h1>
+                <h1 style="color : white;">Asal dari Kota Kediri</h1>
+
         </div>
     </body>
 </html>
